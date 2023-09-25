@@ -1,0 +1,17 @@
+{
+  "name": "node-npm-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "parcel": "^2.9.3"
+  }
+}
